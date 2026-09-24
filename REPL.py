@@ -66,7 +66,7 @@
 # print(divmod(10,2))
 # import antigravity
 
-from datetime import date
-birthyear =2004
-age = date.today().year - birthyear
-print(age)
+# from datetime import date
+# birthyear =2004
+# age = date.today().year - birthyear
+# print(age)
